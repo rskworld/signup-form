@@ -1,6 +1,6 @@
 # RSK World - Modern Signup Form
 
-![RSK World Logo]([https://rskworld.in/wp-content/uploads/2024/03/cropped-rsk-world-high-resolution-logo-transparent-32x32.png](https://rskworld.in/assets/images/favicon.png))
+![RSK World Logo](https://rskworld.in/assets/images/favicon.png)
 
 A sleek, responsive, and accessible signup form with client-side validation, built with HTML5, CSS3, and vanilla JavaScript. This project showcases modern web development practices and UI/UX principles.
 
@@ -12,8 +12,7 @@ signup-form/
 ├── styles.css          # Custom styles
 ├── script.js           # JavaScript functionality
 ├── README.md           # Project documentation
-└── assets/             # Static assets
-    └── images/         # Image files
+
 ```
 
 ## 🏗️ File Structure Details
@@ -167,4 +166,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   Made with ❤️ by <a href="https://rskworld.in">RSK World</a>
 </div>
-
